@@ -1,10 +1,13 @@
 google.com, pub-9221341930261045, DIRECT, f08c47fec0942fa0
 google.com, pub-5385854942476038, DIRECT, f08c47fec0942fa0
-google.com, pub-9221341930261045, DIRECT, f08c47fec0942fa0
+
 applovin.com, 9f7aec85b4ec914cea6ebab851640bf3, DIRECT
+
+mintegral.com, 60707, DIRECT, 4b4a39a5b4d9c3c3
+
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
-contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
 improvedigital.com, 2451, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
